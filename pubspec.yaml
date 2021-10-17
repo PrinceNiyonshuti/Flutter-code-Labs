@@ -19,6 +19,12 @@ dev_dependencies:
 
 flutter:
   # TODO: Insert Fonts (103)
+  fonts:
+  - family: Rubik
+    fonts:
+      - asset: fonts/Rubik-Regular.ttf
+      - asset: fonts/Rubik-Medium.ttf
+        weight: 500
   uses-material-design: true
   assets:
     - assets/diamond.png
@@ -61,3 +67,5 @@ flutter:
     - packages/shrine_images/35-0.jpg
     - packages/shrine_images/36-0.jpg
     - packages/shrine_images/37-0.jpg
+
+    
